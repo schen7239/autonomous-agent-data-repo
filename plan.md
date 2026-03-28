@@ -1,0 +1,4 @@
+- [ ] Generate synthetic CSV dataset
+- [ ] Create Jupyter Notebook
+- [ ] Compile notebook to HTML report
+- [ ] Push to GitHub
